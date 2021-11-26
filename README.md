@@ -1,4 +1,4 @@
-Created as part of The Odin Project curriculum at https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/databases.
+Created as part of [The Odin Project curriculum](https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/databases).
 
-This is the SQL Zoo project, simply completing the exercises at https://sqlzoo.net/.
+This is the [SQL Zoo project](https://sqlzoo.net/), where complete the challenge.
 
