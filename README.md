@@ -12,3 +12,5 @@ Algeria	     |   Africa	   |   2381741  |	  37100000	  |   188681000000   |
 Andorra	     |   Europe	   |   468	    |   78115	      |   3712000000     |
 Angola	     |   Africa	   |   12467001 |	  20609294	  |   100990000000   |
 ...
+
+@autor: Wendy Suarez Pena
